@@ -102,9 +102,9 @@ Last Edited on: 04/09/2021 -->
 <br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br> <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astroes619&show_icons=true&theme=tokyonight" alt="astroes619" /></p>
 <img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astroes619&show_icons=true&theme=tokyonight" alt="astroes619" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astroes619&show_icons=true&theme=tokyonight" alt="astroes619" /></p>
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=astroes619&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="astroes619" /></a> </p>
