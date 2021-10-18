@@ -86,9 +86,9 @@ Last Edited on: 04/09/2021 -->
 - 🌱 I’m currently learning **Artificial Intelligence | Machine Learning |React | Python**
 
 - 📫 How to reach me **atheequehasan2gmail.com**
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="left"><img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"  /></p>
+<img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"  /></p>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">  </h2>
+<p align="left">
   
 <a href="https://twitter.com/atheequeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atheequeh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atheequehasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atheequehasan" height="30" width="40" /></a>
