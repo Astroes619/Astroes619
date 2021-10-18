@@ -102,8 +102,8 @@ Last Edited on: 04/09/2021 -->
 <br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br> <br>
-<img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="150"  /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astroes619&show_icons=true&theme=tokyonight" alt="astroes619" /></p>
+<img align="right"  alt="GIF" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width ="250"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astroes619&show_icons=true&theme=tokyonight" alt="astroes619" /></p>
 
