@@ -81,16 +81,14 @@ Last Edited on: 04/09/2021 -->
 
 
 
-<p align="left"> <a href="https://twitter.com/atheequeh" target="blank"><img src="https://img.shields.io/twitter/follow/atheequeh?logo=twitter&style=for-the-badge" alt="atheequeh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/atheequeh" target="blank"><img src="https://img.shields.io/twitter/follow/atheequeh?logo=twitter&style=for-the-badge" alt="atheequeh" /></a> </p> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height="150">
 
-- 🌱 I’m currently learning **Artificial Intelligence | Machine Learning |React | Python**
+- 🌱 I’m currently learning **Artificial Intelligence | Machine Learning |React | Python** 
 
-- 📫 How to reach me **atheequehasan@gmail.com** <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+- 📫 How to reach me **atheequehasan@gmail.com**  
 
 
-<br>
-<br>
-<br>
+
 
 <h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">   </h2>
 <p align="left"> <img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"  /></p>
