@@ -88,8 +88,8 @@ Last Edited on: 04/09/2021 -->
 - 📫 How to reach me **atheequehasan2gmail.com**
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="left">
-  <img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/3oKIPy6Rr16eD1W2JO/giphy.gif" height ="300" width="250" /></p>
+<p align="left"><img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/3oKIPy6Rr16eD1W2JO/giphy.gif" height ="300" width="250" /></p>
+  
 <a href="https://twitter.com/atheequeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atheequeh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atheequehasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atheequehasan" height="30" width="40" /></a>
 <a href="https://instagram.com/lord_voldemolt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lord_voldemolt_" height="30" width="40" /></a> 
