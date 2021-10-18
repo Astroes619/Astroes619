@@ -85,7 +85,12 @@ Last Edited on: 04/09/2021 -->
 
 - 🌱 I’m currently learning **Artificial Intelligence | Machine Learning |React | Python**
 
-- 📫 How to reach me **atheequehasan@gmail.com**
+- 📫 How to reach me **atheequehasan@gmail.com** <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+
+<br>
+<br>
+<br>
 
 <h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">   </h2>
 <p align="left"> <img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"  /></p>
@@ -111,3 +116,4 @@ Last Edited on: 04/09/2021 -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br> <br> 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=astroes619&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="astroes619" /></a> </p>
+
