@@ -83,7 +83,7 @@ Last Edited on: 04/09/2021 -->
 <h1 align="center">Hi 👋, I'm Atheeque Hasan</h1>
 <h3 align="center">Bsc.(Hons) Computer Science | Undergraduate Student | NSBM | University of Plymouth - UK | Senior Batch Coordinator - Department Of Computer Science -NSBM | UI/UX Dev |Artificial Intelligence</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroes619" alt="astroes619" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/atheequeh" target="blank"><img src="https://img.shields.io/twitter/follow/atheequeh?logo=twitter&style=for-the-badge" alt="atheequeh" /></a> </p>
 
@@ -104,4 +104,6 @@ Last Edited on: 04/09/2021 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astroes619&show_icons=true&locale=en" alt="astroes619" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astroes619&" alt="astroes619" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroes619" alt="astroes619" /></a> </p>
 
