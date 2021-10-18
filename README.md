@@ -73,7 +73,8 @@ You can click the Preview link to take a look at your changes.
 Credits: [Aditya Deshmukh](https://github.com/Aditya664)
 
 Last Edited on: 04/09/2021 -->
-
+<img width="100%" height = "100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Atheeque Hasan</h1>
 <h3 align="center">Bsc.(Hons) Computer Science | Undergraduate Student | NSBM | University of Plymouth - UK | Senior Batch Coordinator - Department Of Computer Science -NSBM | UI/UX Dev |Artificial Intelligence</h3>
