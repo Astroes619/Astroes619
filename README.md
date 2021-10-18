@@ -105,5 +105,4 @@ Last Edited on: 04/09/2021 -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astroes619&" alt="astroes619" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroes619" alt="astroes619" /></a> </p>
-
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=astroes619&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="astroes619" /></a> </p>
