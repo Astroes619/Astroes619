@@ -104,7 +104,7 @@ Last Edited on: 04/09/2021 -->
 <br> <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astroes619&show_icons=true&theme=tokyonight" alt="astroes619" /></p>
-<img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif"  /></p>
+<img align="right" width=455 alt="GIF" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif"  /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astroes619&show_icons=true&theme=tokyonight" alt="astroes619" /></p>
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=astroes619&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="astroes619" /></a> </p>
